@@ -1,13 +1,8 @@
-
-<h1 align="center"> Bienvenido al GitHub de Scarlet Espinoza </h1>
+#  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/> Bienvenid@ al GitHub de Scarlet Espinoza
 
 <p align="justify"> Soy una programadora con experiencia en desarrollo móvil, especialmente en Android y React Native. Durante mi carrera y trabajo he tenido la oportunidad de emplear tecnologías como python,java,VB.NET,typescript,JavaScript y sus tecnologías derivadas. Disfruto formar parte desarrollo de una aplicación desde su comienzo hasta su fin, aportando con ideas que permitan estructurar una solución tecnologíca adecuada. </p>
 
 <p align="justify"> Soy una persona . </p>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-</div> 
 
 ### Tecnologías 💻 
 
