@@ -1,9 +1,6 @@
-#  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> 
-
 
 <div class="centrado">
-    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> 
-    <h1>Bienvenid@ al GitHub de Scarlet Espinoza</h1>
+    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>  <h1>Bienvenid@ al GitHub de Scarlet Espinoza</h1>
   </div>
 
 
