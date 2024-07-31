@@ -6,7 +6,13 @@
 
 <p align="justify"> Soy una programadora con experiencia en desarrollo móvil, especialmente en Android y React Native. Durante mi carrera y trabajo he tenido la oportunidad de emplear tecnologías como python,java,VB.NET,typescript,JavaScript y sus tecnologías derivadas. Disfruto formar parte desarrollo de una aplicación desde su comienzo hasta su fin, aportando con ideas que permitan estructurar una solución tecnologíca adecuada. </p>
 
-<p align="justify"> Disfruto trabajar en equipo ya que puedes aprender nuevas experiencias así como también autoeducarme mediante cursos. Actualmente estoy aprendiendo React en udemy y está siendo un framework interesante de conocer. Soy perseverante,responsable, respetuosa y amigable. </p>
+
+- 🌱 Estoy actualmente aprendiendo **React**
+
+- 💬 Ask me about **Android and React Native**
+
+- 📫 How to reach me **scarletesponoza612@gmail.com**
+
 
 ### Tecnologías 💻 
 
