@@ -9,9 +9,13 @@
 
 - 🌱 Estoy actualmente aprendiendo **React**
 
-- 💬 Ask me about **Android and React Native**
+- 💬 Preguntame sobre **Android and React Native**
 
-- 📫 How to reach me **scarletesponoza612@gmail.com**
+- 📫 Como contactarse **scarletesponoza612@gmail.com**
+
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/scarlet-espinoza-moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/scarlet-espinoza-moreno" height="30" width="40" /></a>
+</p>
 
 
 ### Tecnologías 💻 
